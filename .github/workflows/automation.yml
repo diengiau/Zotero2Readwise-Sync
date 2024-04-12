@@ -5,7 +5,7 @@ on:
     branches:
       - master
   schedule:
-    - cron: "0 * * * *" # Runs at every hour (Check https://crontab.guru/)
+    - cron: "37 * * * *" # Runs at every hour (Check https://crontab.guru/)
 
 jobs:
   zotero-to-readwise-automation:
