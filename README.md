@@ -67,3 +67,4 @@ This will run the automation immediately and won't impact your scheduled automat
 
 - 2024/08/04
 - 2024/10/03
+- 2024/11/14
