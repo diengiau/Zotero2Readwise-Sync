@@ -67,3 +67,4 @@ This will run the automation immediately and won't impact your scheduled automat
 
 - 2024: 08/04, 10/03, 11/14, 11/29, 12/19
 - 2025: 1/2 3/3 5/2
+- 2026: 11/23
